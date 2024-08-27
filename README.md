@@ -19,13 +19,6 @@ Este proyecto encripta y desencripta palabras en minúscula, sin acentos ni sign
 - **JavaScript**: Lógica de encriptación.
 - **HTML y CSS**: Estructura y estilo.
 
-## Prueba:
-
-1. Clona el repositorio:
-
-   ```sh
-   git clone https://github.com/tu-usuario/Encriptador-de-Texto-Challenge-Alura-Latam.git
-2. Abre index.html en tu navegador.
 Contribuciones:
 Si tienes sugerencias o encuentras errores, abre un issue.
 
